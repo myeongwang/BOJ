@@ -1,0 +1,6 @@
+BOJ solution 
+
+<index>
+
+1.BASIC_INPUT_OUTPUT
+2.GREEDY_ALOGRITHM
