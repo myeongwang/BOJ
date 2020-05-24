@@ -1,4 +1,4 @@
-##BOJ solution 
+##BOJ SOLUTION
 
 <BRANCH INDEX>
 
