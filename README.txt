@@ -4,3 +4,4 @@
 
 1.BASIC_INPUT_OUTPUT
 2.GREEDY_ALOGRITHM
+3.merge_sort algorithm
